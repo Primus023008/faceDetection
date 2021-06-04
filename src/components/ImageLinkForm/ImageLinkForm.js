@@ -5,7 +5,7 @@ const ImageLinkForm = () => {
     return (
         <div className="outer">
             
-            <p>Enter Image Link Below to Detect Faces</p>
+            <p>Enter Image Link Below to Detect Faces Now</p>
 
             <div className="inner">
                 <input type='text' 
