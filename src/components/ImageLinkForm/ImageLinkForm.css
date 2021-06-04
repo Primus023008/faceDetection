@@ -15,7 +15,8 @@
 }
 
 .inner{
-    width:600px;
+    width:40vw;
+    min-width: 300px;
     padding: 20px 50px;
     border-radius: 10px;
     /* display: grid;
