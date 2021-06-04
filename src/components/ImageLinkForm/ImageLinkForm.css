@@ -19,6 +19,8 @@
     min-width: 300px;
     padding: 20px 50px;
     border-radius: 10px;
+    display:flex;
+    flex-direction: center;
     /* display: grid;
     grid-template-columns: repeat(8,1fr);
     grid-column-gap: 10px; */

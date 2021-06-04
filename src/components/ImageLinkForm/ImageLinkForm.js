@@ -7,7 +7,7 @@ const ImageLinkForm = () => {
             
             <p>Enter Image Link Below to Detect Faces</p>
 
-            <div className="center">
+            <div className="inner">
                 <input type='text' 
                 placeholder="Enter Image Link"
                 className='input'/>
